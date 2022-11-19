@@ -32,3 +32,4 @@ while game_is_on:
         scoreboard.increase_score()
 
 screen.exitonclick()
+
